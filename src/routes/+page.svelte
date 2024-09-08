@@ -2,6 +2,13 @@
     import { base } from '$app/paths';
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<a href="{base}/test">test</a>
+<div class="header">
+    hey
+</div>
+i'll put some stuff here later
+
+<style>
+    div.header {
+        font-size: 40px;
+    }
+</style>
