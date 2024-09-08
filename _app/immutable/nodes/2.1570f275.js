@@ -1,0 +1,3 @@
+import{s as m,f as _,l as c,g as f,T as h,m as p,j as u,i,S as a,d as o}from"../chunks/scheduler.f9182b81.js";import{S as d,i as v}from"../chunks/index.ec2ee714.js";import"../chunks/paths.f44298d2.js";function x(r){let t,l="hey",s;return{c(){t=_("div"),t.textContent=l,s=c(`
+i'll put some stuff here later`),this.h()},l(e){t=f(e,"DIV",{class:!0,"data-svelte-h":!0}),h(t)!=="svelte-tstaf6"&&(t.textContent=l),s=p(e,`
+i'll put some stuff here later`),this.h()},h(){u(t,"class","header svelte-8mmh8d")},m(e,n){i(e,t,n),i(e,s,n)},p:a,i:a,o:a,d(e){e&&(o(t),o(s))}}}class S extends d{constructor(t){super(),v(this,t,null,x,m,{})}}export{S as component};
