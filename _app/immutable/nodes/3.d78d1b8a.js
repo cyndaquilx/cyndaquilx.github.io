@@ -1,4 +1,4 @@
-import{s as c,f,l as u,g as h,T as p,m as _,j as d,i as l,S as o,d as i}from"../chunks/scheduler.f9182b81.js";import{S as C,i as v}from"../chunks/index.ec2ee714.js";import{b as H}from"../chunks/paths.cde04c81.js";function b(x){let t,r="HELLO",n,a,m="Home";return{c(){t=f("h1"),t.textContent=r,n=u(`
+import{s as c,f,l as u,g as h,T as p,m as _,j as d,i as l,S as o,d as i}from"../chunks/scheduler.f9182b81.js";import{S as C,i as v}from"../chunks/index.ec2ee714.js";import{b as H}from"../chunks/paths.96b53e34.js";function b(x){let t,r="HELLO",n,a,m="Home";return{c(){t=f("h1"),t.textContent=r,n=u(`
 Hello
 `),a=f("a"),a.textContent=m,this.h()},l(e){t=h(e,"H1",{"data-svelte-h":!0}),p(t)!=="svelte-14wdjpm"&&(t.textContent=r),n=_(e,`
 Hello
